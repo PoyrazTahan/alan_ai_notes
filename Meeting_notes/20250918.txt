@@ -1,0 +1,50 @@
+﻿Meeting Notes - September 18, 2025:
+
+
+* What do we need to show product-market fit?
+1. For us?
+   1. Poyraz: People finding the application interesting, and paying to buy our services: Intensity of people in a given period (10-20 person)
+      1. Impression?
+      2. Conversion rate? Impression to any interaction (q&a)74 
+      3. Not friends/family
+      4. Having no time to do it yourself / need to bring additional resources
+      5. Hearing positive feedback from users / introducing other friends to us
+   2. Yalcin: By December 1st, install 20 smart home systems in people’s homes (Poyraz: no friends/family)
+2. For Y Combinator/Accelerator?
+   1. Hacking how to find product-market fit
+   2. Deneme-yanılma X 100
+   3. Trying different alternatives
+   4. Growth curve
+* Is Nov 10 too late / too early?
+   * 53 days = 8 weeks 
+   * 20 people until November 10 = 2.5 people per week
+      * Hasan Can, Ferit, Batu, Priscilla & Trevor (Google)
+* How to get out of this circle? 
+   * Airbnb in Palo Alto
+   * Personals
+      * McKinsey Network
+      * Apple Network
+      * Stanford University Post - ‘wanna make your dorm smart?’ post
+      * Slack Venture Hub - ‘we are building a smart home for you’, anyone interested?
+      * MBA class - building it for you
+   * Cold Calls
+      * YC Network !
+      * Home Assistant forum crawl 
+      * Smart Home Building identification
+      * Home Assistant Leaders/Managers
+   * Media Reach out
+      * Video Ads
+      * Blogs
+      * Reddit question answer etc
+      * Landing page with CTA (22 Sep : Pazar’a cikacak)
+* What do we need to reach this circle?
+   * Application/Automation library (Daily Use case) - pain point interaction
+      * Many apps problem for people who have smart devices but they are not connected
+      * Non-coder user set up problem: no tinkering
+      * Self-improving self-automation rule generator
+         * Poyraz bunun POC’sini yapabilir
+      * Home Local AI for premium users? (to be tested)
+   * “Starter kit” with 2–3 devices + pre-configured hub + Multiple different tiers
+* What are the applications in the menu?
+   * 1) You have too many smart devices in different apps, you need one controller 
+   * 2) Use cases with devices/cost (Yalcin) - justify how much money is spent on it (Yalcin: Today)
