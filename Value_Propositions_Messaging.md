@@ -109,15 +109,20 @@ Comment 'JARVIS' if you want your own local AI"
 **The Hook**: "Making brand enemies become best friends"
 **Example**: "Amazon Echo + Apple HomeKit + Google Nest = usually World War 3. But I've seen them hold hands and work together."
 
-### 6. "The Guest-Proof Home"
-**The Problem**: "Your parents can't figure out how to turn on the lights"
-**The Hook**: "Making your smart home dummy-proof (lovingly)"
-**Example**: "Your 70-year-old dad shouldn't need a PhD to use your bathroom lights"
+### 6. "The Remote Parent Rescue"
+**The Problem**: "Your parents can't figure out how to turn on the lights AND you're 3,000 miles away"
+**The Hook**: "Helping your parents from across the country without a single phone call"
+**Example**: "Mom calls: 'The lights won't work.' Me from my phone in SF: *fixes it remotely* 'Try now.' Magic."
 
 ### 7. "The Energy Bill Assassin"
 **The Problem**: "Smart devices that make your electric bill dumber"
 **The Hook**: "Your smart home should pay for itself"
-**Example**: "Client saved $200/month through automated scheduling. Smart home paid for itself in 8 months."
+**Concrete Examples**:
+- "AC automatically adjusts when you're not home: saves $80/month"
+- "Water heater only heats during off-peak hours: saves $45/month"
+- "Smart plugs cut phantom loads on TV/computer setup: saves $25/month"
+- "Lights auto-dim based on natural light: saves $30/month"
+- "Total: $180/month = $2,160/year. Smart home pays for itself in 10 months."
 
 ### 8. "The Move-In Day Hero"
 **The Problem**: "New house, who dis? (Your smart devices don't know)"
@@ -129,10 +134,10 @@ Comment 'JARVIS' if you want your own local AI"
 **The Hook**: "Making your home security actually secure, not just scary-looking"
 **Example**: "Real security vs. Christmas light show"
 
-### 10. "The Routine Revolutionist"
-**The Problem**: "Morning routine requires 47 button presses"
-**The Hook**: "One word should handle your entire morning"
-**Example**: "From 15-step morning routine to saying 'coffee' and everything happens"
+### 10. "The Invisible Productivity Machine"
+**The Problem**: "Your morning routine has more steps than a NASA launch sequence"
+**The Hook**: "Making productivity frictionless - your routine should be invisible"
+**Example**: "Say 'focus mode' once. Lights adjust for productivity, phone goes to DND, coffee starts brewing, calendar appears on display, noise machine starts, temperature optimizes for alertness. Zero friction between intention and execution."
 
 ## High-Level Messaging Strategy
 
